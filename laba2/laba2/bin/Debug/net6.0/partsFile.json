@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Dentist",
+    "Experience": 5,
+    "doctor": {
+      "FIO": "Ivanov Sergey Ivanovich",
+      "Age": 30
+    }
+  },
+  {
+    "Name": "Dermatologist",
+    "Experience": 10,
+    "doctor": {
+      "FIO": "Seleznev Oleg Viktorovich",
+      "Age": 45
+    }
+  }
+]
